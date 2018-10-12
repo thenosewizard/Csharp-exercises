@@ -1,0 +1,7 @@
+C:\Users\abich\source\repos\ICnumber\obj\Debug\ICnumber.csprojAssemblyReference.cache
+C:\Users\abich\source\repos\ICnumber\obj\Debug\ICnumber.csproj.CoreCompileInputs.cache
+C:\Users\abich\source\repos\ICnumber\bin\Debug\ICnumber.exe.config
+C:\Users\abich\source\repos\ICnumber\bin\Debug\ICnumber.exe
+C:\Users\abich\source\repos\ICnumber\bin\Debug\ICnumber.pdb
+C:\Users\abich\source\repos\ICnumber\obj\Debug\ICnumber.exe
+C:\Users\abich\source\repos\ICnumber\obj\Debug\ICnumber.pdb
