@@ -1,0 +1,6 @@
+C:\Users\abich\source\repos\MainMenu\bin\Debug\MainMenu.exe.config
+C:\Users\abich\source\repos\MainMenu\bin\Debug\MainMenu.exe
+C:\Users\abich\source\repos\MainMenu\bin\Debug\MainMenu.pdb
+C:\Users\abich\source\repos\MainMenu\obj\Debug\MainMenu.csproj.CoreCompileInputs.cache
+C:\Users\abich\source\repos\MainMenu\obj\Debug\MainMenu.exe
+C:\Users\abich\source\repos\MainMenu\obj\Debug\MainMenu.pdb
