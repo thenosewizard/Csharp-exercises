@@ -92,7 +92,7 @@ namespace ICnumber
             int position = listLetter.IndexOf(lastLetter);
 
 
-            //We check if the remainder is equal the the number in the list
+            //We check if the remainder is equal to the number in the list
             if (remainder != listNum[position])
             {   
                 Console.WriteLine("Validity of the IC: False");
